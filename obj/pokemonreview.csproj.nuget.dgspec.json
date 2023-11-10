@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shivam S\\Desktop\\review\\pokemonreview\\pokemonreview.csproj": {}
+    "C:\\Users\\Shivam S\\Desktop\\testingdeploy\\pokemonreview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shivam S\\Desktop\\review\\pokemonreview\\pokemonreview.csproj": {
+    "C:\\Users\\Shivam S\\Desktop\\testingdeploy\\pokemonreview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shivam S\\Desktop\\review\\pokemonreview\\pokemonreview.csproj",
+        "projectUniqueName": "C:\\Users\\Shivam S\\Desktop\\testingdeploy\\pokemonreview.csproj",
         "projectName": "pokemonreview",
-        "projectPath": "C:\\Users\\Shivam S\\Desktop\\review\\pokemonreview\\pokemonreview.csproj",
+        "projectPath": "C:\\Users\\Shivam S\\Desktop\\testingdeploy\\pokemonreview.csproj",
         "packagesPath": "C:\\Users\\Shivam S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shivam S\\Desktop\\review\\pokemonreview\\obj\\",
+        "outputPath": "C:\\Users\\Shivam S\\Desktop\\testingdeploy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shivam S\\AppData\\Roaming\\NuGet\\NuGet.Config"
