@@ -1,8 +1,6 @@
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\pokemonreview.exe
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\appsettings.Development.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\appsettings.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\build\asset-manifest.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\build\manifest.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\package-lock.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\package.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\public\manifest.json

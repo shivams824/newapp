@@ -255,3 +255,6 @@ C:\Users\sesa746843\Desktop\newapp\New folder\newapp\obj\Debug\net6.0\pokemonrev
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\obj\Debug\net6.0\ref\pokemonreview.dll
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\obj\Debug\net6.0\pokemonreview.pdb
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\obj\Debug\net6.0\pokemonreview.genruntimeconfig.cache
+C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\package-lock.json
+C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\package.json
+C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\public\manifest.json
