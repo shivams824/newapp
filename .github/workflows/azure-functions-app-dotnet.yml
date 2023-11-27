@@ -31,13 +31,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nuget-
 
-      - name: Dotnet clean
-        run: |
-          dotnet clean
-
       - name: Dotnet restore
         run: |
           dotnet restore
+
+      - name: Dotnet clean
+        run: |
+          dotnet clean
 
       - name: Dotnet build
         run: |
