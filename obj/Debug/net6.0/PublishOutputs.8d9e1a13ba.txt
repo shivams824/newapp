@@ -6,7 +6,6 @@ C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\fr
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\package-lock.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\package.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\public\manifest.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\frontend\tsconfig.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\pokemonreview.dll
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\pokemonreview.runtimeconfig.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\publish\pokemonreview.pdb

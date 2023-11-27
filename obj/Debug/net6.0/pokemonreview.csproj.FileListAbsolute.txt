@@ -193,13 +193,6 @@ C:\Users\Shivam S\Desktop\testingdeploy\obj\Debug\net6.0\pokemonreview.pdb
 C:\Users\Shivam S\Desktop\testingdeploy\obj\Debug\net6.0\pokemonreview.genruntimeconfig.cache
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\appsettings.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\build\asset-manifest.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\build\manifest.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\package-lock.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\package.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\public\manifest.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\frontend\tsconfig.json
-C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\pokemonreview.staticwebassets.runtime.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\pokemonreview.exe
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\pokemonreview.deps.json
 C:\Users\sesa746843\Desktop\newapp\New folder\newapp\bin\Debug\net6.0\pokemonreview.runtimeconfig.json
