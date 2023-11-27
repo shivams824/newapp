@@ -3,7 +3,7 @@ name: Build and Deploy
 env:
   AZURE_WEBAPP_NAME: pipeline-test-git
   DOTNET_VERSION: "6.0.x"
-#  NODE_VERSION: '16.x'
+  NODE_VERSION: '16.x'
 
 on:
   push:
@@ -24,6 +24,21 @@ jobs:
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Npm clean
+        run: |
+          cd frontend
+          npm cache clean --force
+
+      - name: Npm install
+        run: |
+          cd frontend
+          npm install --force
+
       - name: Set up dependency caching for faster builds
         uses: actions/cache@v2
         with:
@@ -43,6 +58,11 @@ jobs:
       - name: Dotnet build
         run: |
           dotnet build --configuration Release
+
+      - name: Npm run build
+        run: |
+          cd frontend
+          npm run build
 
       - name: Dotnet publish
         run: |

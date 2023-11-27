@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Y1ooGl3ZJ84guny0wX4LC+5Tm7Cs07GjEYAJL1fna7jcaTQxZ9s90HfE4Xkw5nlR/FfSd97+uU0q1JJDGW6sA==",
+  "dgSpecHash": "kyLs/dF9ePd0TSp0NawiPaxXmTQEAjOQjQhtw8Wq1ulrDpQ1EHXgkK5jBKp67snsx5v9qmWivpUkawvTJKsLOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\pokemonreview.csproj",
+  "projectFilePath": "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\pokemonreview.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sesa746843\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\sesa746843\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

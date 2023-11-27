@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\pokemonreview.csproj": {}
+    "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\pokemonreview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\pokemonreview.csproj": {
+    "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\pokemonreview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\pokemonreview.csproj",
+        "projectUniqueName": "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\pokemonreview.csproj",
         "projectName": "pokemonreview",
-        "projectPath": "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\pokemonreview.csproj",
+        "projectPath": "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\pokemonreview.csproj",
         "packagesPath": "C:\\Users\\sesa746843\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sesa746843\\Desktop\\newapp\\newapp\\obj\\",
+        "outputPath": "C:\\Users\\sesa746843\\Desktop\\newapp\\New folder\\newapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sesa746843\\AppData\\Roaming\\NuGet\\NuGet.Config"
